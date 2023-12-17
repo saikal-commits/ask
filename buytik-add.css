@@ -1,0 +1,739 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 95%;
+  }
+}
+@media (max-width: 1200px) {
+  .buytik-pos2 img {
+    left: 787px;
+  }
+  .buytik-icon span {
+    height: 54vh;
+  }
+  .footer-line img {
+    width: 1200px;
+    padding-top: 84px;
+  }
+  .footer-block2 {
+    gap: 35px;
+  }
+  .footer-line img {
+    width: 1200px;
+  }
+  .footer-end {
+    padding-top: 7px;
+  }
+  #footer {
+    min-height: 350px;
+  }
+  .about-location-img img {
+    width: 655px;
+  }
+  .btn button:active {
+    background: #253659;
+    color: #fff;
+  }
+}
+@media (max-width: 1024px) {
+  .buytik-pos2 img {
+    left: 617px;
+  }
+  .footer-blocks {
+    gap: 38px;
+  }
+  .footer-blocks {
+    gap: 70px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  #footer {
+    min-height: 538px;
+  }
+  .footer-line img {
+    width: 1024px;
+  }
+  .hed-number {
+    display: none;
+  }
+  #header {
+    padding: 20px 0;
+  }
+  .offers-logo img {
+    width: 462px;
+  }
+  .offers-block h3 {
+    font-size: 21px;
+  }
+  .offers-block input {
+    width: 280px;
+    height: 53px;
+  }
+  .offers-block button {
+    width: 205px;
+    height: 52px;
+    font-size: 17px;
+  }
+  .offers-block {
+    width: 331px;
+    height: 351px;
+  }
+  .about-location-img img {
+    width: 489px;
+    height: 362px;
+  }
+  .about-png img {
+    bottom: 254px;
+    left: 536px;
+    width: 108px;
+    height: 107px;
+  }
+}
+@media (max-width: 992px) {
+  .buytik-pos2 img {
+    left: 586px;
+  }
+  .footer-line img {
+    width: 992px;
+  }
+  .about-location-img img {
+    width: 455px;
+    height: 347px;
+  }
+  .about-png img {
+    bottom: 244px;
+    left: 536px;
+    width: 97px;
+    height: 89px;
+  }
+}
+@media (max-width: 768px) {
+  .footer-line img {
+    width: 765px;
+  }
+  .offers {
+    flex-direction: column;
+  }
+  #offers {
+    min-height: 559px;
+  }
+  .buytik-pos2 {
+    display: none;
+  }
+  .buytik-cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .buytik-about-text p {
+    width: 670px;
+    margin-bottom: -158px;
+  }
+  .buytik-about-location {
+    padding-top: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column-reverse;
+  }
+  .spanish-text p {
+    width: 748px;
+  }
+  .spanish-text h2 {
+    width: 742px;
+    font-size: 34px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .buytik-about-text p {
+    width: 767px;
+  }
+  .about-location-img img {
+    width: 501px;
+    height: 347px;
+  }
+  .about-location-img img {
+    width: 559px;
+    height: 347px;
+    margin-bottom: -175px;
+  }
+  .about-png img {
+    bottom: 393px;
+    left: 115px;
+    width: 91px;
+    height: 89px;
+  }
+  .about-location-text h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .about-location-text p {
+    text-align: center;
+    width: 669px;
+  }
+  .card-right {
+    gap: -4px;
+  }
+  .hed-icon {
+    display: none;
+  }
+  .hed-leng {
+    display: none;
+  }
+}
+@media (max-width: 576px) {
+  #footer {
+    min-height: 835px;
+  }
+  .footer-blocks {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 40px;
+  }
+  .footer-line img {
+    width: 576px;
+  }
+  .offers-logo img {
+    width: 401px;
+    padding-bottom: 10px;
+  }
+
+  .offers-block h3 {
+    font-size: 18px;
+  }
+  .offers-block input {
+    width: 259px;
+    height: 50px;
+  }
+  .offers-block button {
+    width: 184px;
+    height: 46px;
+    font-size: 15px;
+  }
+  .offers-block {
+    width: 288px;
+    height: 308px;
+  }
+  #header {
+    padding: 13px 0;
+  }
+  .header img {
+    width: 140px;
+  }
+  .header-nav a {
+    font-size: 12px;
+  }
+  .buytik-about-text p {
+    width: 535px;
+  }
+  .about-png img {
+    bottom: 411px;
+    left: 32px;
+    width: 98px;
+    height: 93px;
+  }
+  .about-location-text p {
+    width: 521px;
+  }
+  .spanish-text h2 {
+    width: 553px;
+    font-size: 27px;
+  }
+  .spanish-text p {
+    width: 560px;
+  }
+  .planet-imgs {
+    gap: 17px;
+  }
+  .planet-img1 h5 {
+    font-size: 16px;
+  }
+  .planet-img1 img {
+    width: 55px;
+    height: 55px;
+  }
+  .buytik-logo img {
+    width: 438px;
+    height: 57px;
+  }
+  .buytik-logo {
+    padding-top: 175px;
+  }
+  #buytik {
+    min-height: 455px;
+  }
+  .buytik-icon span {
+    height: 30vh;
+  }
+  .header-nav a {
+    margin: 0 11px;
+  }
+}
+@media (max-width: 451px) {
+  .header img {
+    width: 121px;
+  }
+  .header-nav a {
+    margin: 0 10px;
+    font-size: 10px;
+  }
+  #offers {
+    min-height: 540px;
+  }
+  .offers-logo img {
+    width: 401px;
+    padding-bottom: 10px;
+  }
+
+  .offers-block h3 {
+    font-size: 18px;
+  }
+  .offers-block input {
+    width: 259px;
+    height: 50px;
+  }
+  .offers-block button {
+    width: 184px;
+    height: 46px;
+    font-size: 15px;
+  }
+  .offers-block {
+    padding: 40px 20px 0 27px;
+    width: 288px;
+    height: 308px;
+  }
+  .buytik-about-text p {
+    width: 393px;
+  }
+  .about-location-img img {
+    width: 426px;
+    height: 321px;
+  }
+  .about-png img {
+    bottom: 411px;
+    left: 21px;
+    width: 91px;
+    height: 86px;
+  }
+  .about-location-text p {
+    width: 427px;
+  }
+  .spanish-text h2 {
+    width: 437px;
+    font-size: 20px;
+  }
+  .spanish-text p {
+    width: 401px;
+  }
+  .footer-line img {
+    width: 450px;
+  }
+  .card1 {
+    width: 366px;
+  }
+  .btn button {
+    width: 167px;
+    height: 52px;
+    font-size: 14px;
+  }
+  .price-btn button {
+    margin-right: 11px;
+  }
+  .buytik-logo img {
+    width: 390px;
+  }
+}
+@media (max-width: 414px) {
+  .offers-block h3 {
+    font-size: 18px;
+  }
+  .offers-logo img {
+    width: 337px;
+    padding-bottom: 10px;
+  }
+  .offers-block input {
+    width: 259px;
+    height: 50px;
+  }
+  .offers-block button {
+    width: 184px;
+    height: 46px;
+    font-size: 15px;
+  }
+  .offers-block {
+    width: 288px;
+    height: 308px;
+  }
+  .footer-line img {
+    width: 412px;
+  }
+  .buytik-about-text h1 {
+    font-size: 31px;
+  }
+  .offers-block h3 {
+    width: 340px;
+  }
+  .about-location-img img {
+    width: 398px;
+    height: 297px;
+  }
+  .about-png img {
+    bottom: 396px;
+    left: 19px;
+    width: 74px;
+    height: 72px;
+  }
+  .about-location-text h1 {
+    font-size: 35px;
+  }
+  .card1 {
+    width: 320px;
+    height: 456px;
+  }
+  .btn button {
+    width: 144px;
+    height: 49px;
+    font-size: 12px;
+  }
+  .range {
+    width: 312px;
+  }
+  .range input {
+    width: 289px;
+  }
+  .price-btn button {
+    width: 62px;
+    height: 41px;
+    font-size: 18px;
+  }
+  .price-btn span button {
+    width: 70px;
+    height: 43px;
+    font-size: 16px;
+  }
+  .card1 div h6 {
+    font-size: 16px;
+  }
+  .select select {
+    width: 310px;
+    height: 53px;
+  }
+  .card1-btn button {
+    width: 310px;
+    height: 53px;
+  }
+  .card-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .card-up {
+    width: 340px;
+  }
+  .card-up h1 span {
+    font-size: 16px;
+  }
+  .card-up h1 {
+    font-size: 19px;
+  }
+  .card-dawn {
+    width: 340px;
+  }
+  .spanish-text h2 {
+    width: 408px;
+  }
+  .about-location-text p {
+    width: 410px;
+  }
+  .header img {
+    width: 87px;
+}
+}
+@media (max-width: 400px) {
+  .buytik-logo img {
+    width: 330px;
+  }
+  #buytik {
+    min-height: 386px;
+  }
+  .buytik-icon span {
+    height: 16vh;
+  }
+  .about-location-text h1 {
+    font-size: 34px;
+  }
+  .about-location-text p {
+    width: 349px;
+  }
+  .spanish-text h2 {
+    width: 340px;
+    font-size: 16px;
+  }
+  .footer-line img {
+    width: 400px;
+  }
+  .header img {
+    width: 115px;
+  }
+  .header-nav a {
+    margin: 0 4px;
+    font-size: 9px;
+  }
+}
+@media (max-width: 376px) {
+  .offers-block h3 {
+    width: 290px;
+    font-size: 21px;
+  }
+  .footer-line img {
+    width: 373px;
+  }
+  .offers-logo img {
+    width: 331px;
+  }
+  .offers-block h3 {
+    font-size: 18px;
+  }
+  .offers-block input {
+    width: 259px;
+    height: 50px;
+  }
+  .offers-block button {
+    width: 184px;
+    height: 46px;
+    font-size: 15px;
+  }
+  .offers-block {
+    width: 288px;
+    height: 308px;
+  }
+  .card1 {
+    width: 294px;
+    height: 438px;
+  }
+  .btn button {
+    width: 131px;
+    height: 44px;
+    font-size: 11px;
+  }
+  .range {
+    width: 270px;
+  }
+  .range input {
+    width: 252px;
+  }
+  .price-btn button {
+    width: 55px;
+    height: 37px;
+    font-size: 16px;
+  }
+  .price-btn span button {
+    height: 37px;
+  }
+  .select select {
+    width: 283px;
+    height: 51px;
+  }
+  .card1-btn button {
+    width: 283px;
+    height: 51px;
+  }
+  .card-up {
+    width: 313px;
+  }
+  .card-up h1 {
+    font-size: 17px;
+  }
+  .card-up h1 span {
+    font-size: 15px;
+  }
+  .card-dawn {
+    width: 313px;
+  }
+  .buytik-about-text h1 {
+    font-size: 29px;
+  }
+  .buytik-about-text p {
+    width: 352px;
+  }
+  .about-location-img img {
+    width: 373px;
+    height: 285px;
+  }
+  .about-png img {
+    bottom: 404px;
+    left: 16px;
+    width: 70px;
+    height: 68px;
+  }
+  .spanish-text p {
+    width: 246px;
+  }
+  .spanish-text h2 {
+    font-size: 28px;
+    text-align: center;
+  }
+  #spanish {
+    padding: 27px 0;
+  }
+  .header img {
+    width: 99px;
+  }
+}
+@media (max-width: 320px) {
+  .foot-left p {
+    color: #fff;
+    font-size: 8px;
+    font-weight: 600;
+  }
+  .offers-logo img {
+    width: 280px;
+    padding-bottom: 10px;
+  }
+  .offers-block h3 {
+    width: 273px;
+    font-size: 15px;
+  }
+  .offers-block h3 {
+    width: 257px;
+    font-size: 16px;
+  }
+  .offers-block input {
+    width: 210px;
+    height: 43px;
+  }
+  .offers-block button {
+    width: 152px;
+    height: 43px;
+    font-size: 13px;
+  }
+  .offers-block {
+    width: 244px;
+    height: 291px;
+  }
+  .offers-block {
+    padding: 24px 20px 0 25px;
+  }
+  .header img {
+    width: 89px;
+  }
+  .header-nav a {
+    margin: 0 5px;
+    font-size: 7px;
+  }
+  .footer-line img {
+    padding-top: 38px;
+  }
+  #footer {
+    min-height: 768px;
+  }
+  #offers {
+    min-height: 544px;
+  }
+  .buytik-logo img {
+    width: 268px;
+  }
+  .buytik-pos1 {
+    display: none;
+  }
+  .buytik-icon {
+    display: none;
+  }
+  .card1 {
+    width: 274px;
+    height: 421px;
+    padding: 20px;
+  }
+  .btn button {
+    width: 121px;
+    height: 41px;
+    font-size: 10px;
+  }
+  .card1 div h6 {
+    font-size: 14px;
+  }
+  .range {
+    width: 252px;
+  }
+  .range input {
+    width: 243px;
+  }
+  .price-btn button {
+    width: 49px;
+    height: 33px;
+    font-size: 14px;
+  }
+  .price-btn span button {
+    width: 67px;
+    height: 33px;
+    font-size: 14px;
+  }
+  .select select {
+    width: 263px;
+    height: 46px;
+    font-size: 16px;
+  }
+  .card1-btn button {
+    width: 263px;
+    height: 46px;
+  }
+  .card-up {
+    width: 280px;
+    height: 254px;
+    padding: 24px 18px 0 18px;
+  }
+  .card-up h1 {
+    font-size: 14px;
+  }
+  .card-up h1 span {
+    font-size: 13px;
+  }
+  .card-dawn {
+    width: 278px;
+    height: 230px;
+    padding: 1px 9px 0 30px;
+  }
+  .card-dawn h3 {
+    font-size: 18px;
+  }
+  .dawn-text h4 {
+    font-size: 14px;
+  }
+  .dawn-text h5 {
+    font-size: 16px;
+  }
+  .buytik-about-text h1 {
+    font-size: 24px;
+  }
+  .buytik-about-text p {
+    width: 293px;
+  }
+  .about-location-img img {
+    width: 315px;
+    height: 261px;
+  }
+  .about-png img {
+    bottom: 401px;
+    left: 12px;
+    width: 57px;
+    height: 55px;
+  }
+  .about-location-text h1 {
+    font-size: 30px;
+  }
+  .about-location-text p {
+    width: 300px;
+  }
+  .footer-line img {
+    width: 317px;
+  }
+  .spanish-text h2 {
+    font-size: 25px;
+    width: 315px;
+  }
+}
