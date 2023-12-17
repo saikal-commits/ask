@@ -115,7 +115,7 @@ button {
 .buytik-pos2 img {
   position: absolute;
   bottom: 90px;
-  left: 848px;
+  left: 866px;
 }
 .buytik-icon span {
   display: flex;
@@ -467,8 +467,6 @@ button {
   height: 300px;
 }
 
-
-
 .swiper {
   width: 100%;
   padding-top: 50px;
@@ -720,7 +718,3 @@ button {
   font-weight: 400;
   text-decoration-line: underline;
 }
-
-
-
-
