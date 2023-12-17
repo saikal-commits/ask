@@ -453,6 +453,15 @@
   .header img {
     width: 87px;
 }
+#buytik {
+    min-height: 357px;
+}
+.buytik-icon span {
+    height: 7vh;
+}
+.buytik-logo img {
+    width: 325px;
+}
 }
 @media (max-width: 400px) {
   .buytik-logo img {
@@ -736,4 +745,7 @@
     font-size: 25px;
     width: 315px;
   }
+  #buytik {
+    min-height: 323px;
+}
 }
